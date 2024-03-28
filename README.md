@@ -1,0 +1,2 @@
+# djangoworkshop
+django sample application.
